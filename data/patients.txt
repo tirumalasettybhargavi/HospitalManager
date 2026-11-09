@@ -1,0 +1,6 @@
+P001|Bhargavi|19|Female|7780257599|vijayawada|skin allergy
+P002|Harika|40|Female|1234567890|elluru|common cold
+P003|Sri|25|Female|6302341399|tanuku|migraine
+P004|Pardhu|13|Male|5463748234|kakinada|eye infection
+P005|vishnu|40|Male|9876543210|bhimavaram|back pain
+P006|Raj|35|Male|5987463210|Eluru|Root canal

@@ -1,0 +1,7 @@
+D001|Dr. Arjun|Dermatology|1324535646|Weekends only
+D002|Dr.Geetha|Neurology|6305991295|Mon, Wed, Fri
+D003|Dr.Madhu|Cardiology|8465754637|Tue, Thu, Sat
+D004|Dr.Chaitanya|General Medicine|7564534231|Mon - Fri (9 AM - 5 PM)
+D005|Dr.Sneha|Pediatrics|1324354657|Mon - Fri (9 AM - 5 PM)
+D006|Dr.Ram|Orthopedics|2159874563|Mon - Sat (9 AM - 1 PM)
+D007|Dr.Sowji|Dentistry|5879645863|Tue, Thu, Sat
